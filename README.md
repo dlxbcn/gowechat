@@ -6,7 +6,7 @@
 ## Quick Start
 
 #### Download and install
-    go get github.com/yaotian/gowechat
+    go get github.com/uzicloud/gowechat
 
 #### Run examples
     cd ./examples/beego
